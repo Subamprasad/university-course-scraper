@@ -78,6 +78,5 @@ The generated Excel file:
 
 ---
 
-## ▶ How To Run The Project
 
-1. Install required libraries:
+
